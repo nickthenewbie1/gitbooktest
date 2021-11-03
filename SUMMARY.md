@@ -1,3 +1,6 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Welcome](README.md)
+* [Welcome page](welcome-page.md)
+
+## Developing in the leverege ecosystem
