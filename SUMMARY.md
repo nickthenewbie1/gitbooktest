@@ -6,7 +6,7 @@
 ## Developing in the leverege ecosystem
 
 * [Introduction](developing-in-the-leverege-ecosystem/introduction.md)
-* [The Leverege Ecosystem](developing-in-the-leverege-ecosystem/the-leverege-ecosystem.md)
+* [The Leverege Ecosystem!](developing-in-the-leverege-ecosystem/the-leverege-ecosystem.md)
 
 ## Molten
 
